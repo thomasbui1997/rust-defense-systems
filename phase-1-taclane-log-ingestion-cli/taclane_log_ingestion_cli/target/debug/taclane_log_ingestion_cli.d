@@ -1,0 +1,1 @@
+/Users/thomasbui/rust-defense-systems/phase-1-taclane-log-ingestion-cli/taclane_log_ingestion_cli/target/debug/taclane_log_ingestion_cli: /Users/thomasbui/rust-defense-systems/phase-1-taclane-log-ingestion-cli/taclane_log_ingestion_cli/src/main.rs
