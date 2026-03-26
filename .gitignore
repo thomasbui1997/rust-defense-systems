@@ -1,0 +1,10 @@
+# Rust build output
+target/
+**/target/
+
+# Accidental root-level Cargo files; keep the real crate files tracked
+/Cargo.toml
+/Cargo.lock
+
+# macOS metadata
+.DS_Store
